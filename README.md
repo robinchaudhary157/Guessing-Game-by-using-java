@@ -1,1 +1,1 @@
-# Guessing-Game-by-using-java
+# Guessing-Random-Number-Game-by-using-java
